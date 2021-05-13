@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shingjan&count_private=true&include_all_commits=true"/>
+
 ## TL;DR
 
 Software Engineer working on ML compiler and distributed database, UIUC LLVM alumni.
