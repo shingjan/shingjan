@@ -2,6 +2,6 @@
 
 Software Engineer working on ML compiler and distributed database, UIUC LLVM alumni.
 
-- 🔭 I’m currently working on distributed databases
-- 🌱 I’m currently learning to build compilers 
+- 🔭 I’m currently working on distributed database & data lake
+- 🌱 I’m currently learning to build compiler for deep learning
 - 📫 How to reach me: yj at shingjan.me
