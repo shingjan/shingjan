@@ -1,8 +1,8 @@
 <a href="https://github.com/anuraghazra/convoychat">
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shingjan&layout=default&theme=vue-dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shingjan&layout=compact&theme=vue-dark"/>
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shingjan&custom_title=Github Stats&line_height=40&hide_rank=true&theme=vue-dark"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shingjan&custom_title=Github Stats&line_height=20&hide_rank=true&theme=vue-dark"/>
 </a>
 
 ### Hi there 👋 
