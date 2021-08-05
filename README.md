@@ -1,7 +1,16 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=shingjan&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark"/>
+<a href="https://github.com/anuraghazra/convoychat">
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shingjan&layout=default&theme=vue-dark"/>
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=shingjan&custom_title=Github Stats&line_height=40&hide_rank=true&theme=vue-dark"/>
+</a>
 
-Software Engineer working on ML compiler and distributed database, UIUC LLVM alumni.
+### Hi there 👋 
 
-- 🔭 I’m currently working on distributed database & data lake
-- 🌱 I’m currently learning to build compiler for deep learning
+- 🌍 I'm a ML System Engineer in Seattle, WA
+- ✨ Work on TVM, an accelarating end-to-end machine learning compiler
+- 🔭 Used to work on distributed databases, Spark & Data Lake of SnowflakeDB
+- ⚡️ Obsessed with: Paper making at Dunder Muffilin & Drinking coffee at Central Perk
 - 📫 How to reach me: yj at shingjan.me
+
+
