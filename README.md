@@ -8,9 +8,9 @@
 #### Hi there 👋 
 
 - 🌍 I'm a ML System Engineer in Seattle, WA
-- ✨ Work on TVM, an accelarating end-to-end machine learning compiler
-- 🔭 Used to work on distributed databases, Spark & Data Lake of SnowflakeDB
-- ⚡️ Obsessed with: Paper making at Dunder Muffilin & Coffee drinking at Central Perk
+- ✨ Work on [TVM](https://tvm.apache.org/), an open deep learning compiler stack
+- 🔭 Used to work on [Data Lake of SnowflakeDB](https://www.snowflake.com/#data-lake)
+- ⚡️ Obsessed with Paper making at Dunder Muffilin & Coffee drinking at Central Perk
 - 📫 How to reach me: yj at shingjan.me
 
 
