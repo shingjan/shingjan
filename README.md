@@ -15,6 +15,5 @@
 [![Ins](https://img.shields.io/badge/shingjan-white?style=flat&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/shingjan/)
 
 ![YJ's GitHub stats](https://github-readme-stats.vercel.app/api?username=shingjan&line_height=20&custom_title=YJ's+Github+Stats&show_icons=true&theme=graywhite)
-![Whats type?](https://github-readme-stats.vercel.app/api/top-langs/?username=shingjan&layout=compact&theme=graywhite)
 
 
