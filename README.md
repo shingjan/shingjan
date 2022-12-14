@@ -25,9 +25,6 @@
 [![Twitter](https://img.shields.io/badge/yjshi03-white?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/yjshi03)
 [![Linkedin](https://img.shields.io/badge/shingjan-white?style=flat&logo=linkedin&labelColor=0072b1)](https://www.linkedin.com/in/shingjan/)
 [![GitHub](https://img.shields.io/badge/shingjan-white?style=flat&logo=github&logoColor=white&labelColor=171515)](https://github.com/shingjan)
-[![Ins](https://img.shields.io/badge/shingjan-white?style=flat&logo=instagram&logoColor=white&labelColor=E4405F)](https://www.instagram.com/shingjan/)
-
-
 
 
 
