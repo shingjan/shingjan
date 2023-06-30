@@ -9,7 +9,7 @@
 - ⚡️ Obsessed with 
   - _Paper making at Dunder Muffilin_ 
   - _Coffee drinking at Central Perk_
-- 📫 How to reach me: yj at shingjan.me
+- 📫 How to reach me: yj at shingjan.com
 
 <details>
   <summary> My GitHub Stats </summary>
@@ -22,10 +22,11 @@
 </details>
 
 
-[![Twitter](https://img.shields.io/badge/yjshi03-white?style=flat&logo=twitter&logoColor=white&labelColor=1DA1F2)](https://twitter.com/yjshi03)
+[![Twitter](https://img.shields.io/twitter/follow/shingjan_)](https://twitter.com/shingjan_)
+[![Mastodon](https://img.shields.io/mastodon/follow/110314147846876561?domain=https%3A%2F%2Fdiscuss.systems)](https://discuss.systems/@shingjan)
 [![Linkedin](https://img.shields.io/badge/shingjan-white?style=flat&logo=linkedin&labelColor=0072b1)](https://www.linkedin.com/in/shingjan/)
 [![GitHub](https://img.shields.io/badge/shingjan-white?style=flat&logo=github&logoColor=white&labelColor=171515)](https://github.com/shingjan)
-[![Mastodon](https://img.shields.io/mastodon/follow/109298519600061077?domain=https%3A%2F%2Fmastodon.online)](https://mastodon.online/@shingjan)
+
 
 
 
